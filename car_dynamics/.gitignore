@@ -1,0 +1,16 @@
+wandb/
+__pycache__/
+# models/
+*.npz
+./data.npz
+dataset/
+data.npz
+*.npz
+car_dynamics/data.npz
+*.egg-info/
+*.swp
+*.swo
+tmp/
+.DS_Store
+*.npy
+*.csv
